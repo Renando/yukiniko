@@ -15,7 +15,7 @@ def main():
 		pwd = raw_input("password : ")
 
 		if pwd == password:
-			print "\n\033[1;34mHello Welcome To Tools B4J1N64N", 
+			print "\n\033[1;34mHello Welcome To YUKINIKO INSTALLER", 
 			sys.exit()
 
 		else:
